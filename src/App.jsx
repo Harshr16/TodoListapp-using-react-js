@@ -117,7 +117,7 @@ const App = () => {
           checked={showFinished}
           onChange={toggleFinish}
           
-        /> Show Finish
+        /> Show Fin
         <h1 className='text-lg font-bold my-2'>My Todo</h1>
 
         <div className='Todos'>
